@@ -1,0 +1,10 @@
+{
+    "name": "aoc/day01",
+    "authors": [
+        {
+            "name": "Justin King",
+            "email": "getafixx149@gmail.com"
+        }
+    ],
+    "require": {}
+}
